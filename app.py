@@ -1,7 +1,14 @@
 import streamlit as st
 
-st.set_page_config(page_title="Tutorial App", page_icon="📚", layout="wide")
+pages = {
+    "Tutorials": [
+        st.Page("pages/tutorial_1.py", title="Create your account"),
+        st.Page("pages/tutorial_2.py", title="Manage your account"),
+    ],
+    "Documentation": [
+        st.Page("pages/document_wizard.py", title="Document Wizard"),
+    ],
+}
 
-st.title("Willkommen zur Tutorial App 🎥")
-
-st.write("Wähle eine Seite aus der Seitenleiste, um ein Tutorial anzusehen.")
+pg = st.navigation(pages)
+pg.run()
