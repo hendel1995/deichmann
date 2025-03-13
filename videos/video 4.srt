@@ -1,0 +1,323 @@
+﻿1
+00:00:00,600 --> 00:00:03,000
+Hello and welcome to this tutorial.
+
+2
+00:00:03,000 --> 00:00:06,500
+In this video we'll show you how you can
+upload and edit an invoice.
+
+3
+00:00:07,000 --> 00:00:08,100
+So let's begin.
+
+4
+00:00:08,100 --> 00:00:11,466
+In the Document Wizard
+we navigate to the invoice portal.
+
+5
+00:00:12,066 --> 00:00:14,966
+Then we press on upload
+
+6
+00:00:14,966 --> 00:00:18,333
+and drag and drop our invoices csv.
+
+7
+00:00:18,500 --> 00:00:21,100
+And now your invoice line
+item should appear here.
+
+8
+00:00:21,100 --> 00:00:23,833
+But as you can see, there
+seems to be a mistake in one of them.
+
+9
+00:00:23,833 --> 00:00:28,133
+So let's click on edit
+and see what's going on here.
+
+10
+00:00:29,466 --> 00:00:31,200
+Down below you can see that
+
+11
+00:00:31,200 --> 00:00:34,200
+there seems to be no matching order number
+for this order.
+
+12
+00:00:35,100 --> 00:00:38,900
+So we check our order number
+and we discovered
+
+13
+00:00:38,900 --> 00:00:40,500
+that there seems to be a typo.
+
+14
+00:00:40,500 --> 00:00:42,700
+So let's fix that.
+
+15
+00:00:42,700 --> 00:00:45,433
+And now
+so you can see the error disappeared.
+
+16
+00:00:45,433 --> 00:00:48,100
+At this stage we could already press save.
+
+17
+00:00:48,100 --> 00:00:51,233
+Move back to our overview
+and send off our data.
+
+18
+00:00:51,833 --> 00:00:55,000
+However, we can also choose to upload
+
+19
+00:00:55,033 --> 00:00:58,033
+our additional documents,
+which I'll show you how to do now.
+
+20
+00:00:58,466 --> 00:01:01,333
+First of all I'm
+going to add our invoice document.
+
+21
+00:01:01,333 --> 00:01:04,800
+So I just drag and drop
+our invoice PDF over here
+
+22
+00:01:05,733 --> 00:01:08,466
+and it should be uploaded.
+
+23
+00:01:08,466 --> 00:01:11,100
+Afterwards
+we can add our additional documents.
+
+24
+00:01:11,100 --> 00:01:15,733
+It is possible to attach a packing list
+and preference certificate.
+
+25
+00:01:15,800 --> 00:01:18,766
+So let's start off our packing list.
+
+26
+00:01:18,766 --> 00:01:21,100
+We just
+
+27
+00:01:21,100 --> 00:01:24,100
+drag and drop it over here.
+
+28
+00:01:24,200 --> 00:01:27,200
+We select the document type.
+
+29
+00:01:28,166 --> 00:01:31,000
+And now we have to make sure
+
+30
+00:01:31,000 --> 00:01:34,000
+that we
+
+31
+00:01:34,033 --> 00:01:37,033
+add the right document number.
+
+32
+00:01:40,900 --> 00:01:43,900
+And our document date.
+
+33
+00:01:46,800 --> 00:01:49,333
+Now let's add our preference document.
+
+34
+00:01:49,333 --> 00:01:51,300
+Here we also have to pick a subtype.
+
+35
+00:01:51,300 --> 00:01:55,100
+Then we add our document number
+and the correct date.
+
+36
+00:01:56,400 --> 00:01:59,400
+And let's not forget our document as well.
+
+37
+00:02:02,133 --> 00:02:02,966
+Now that we are done
+
+38
+00:02:02,966 --> 00:02:05,966
+with those steps, we just press save.
+
+39
+00:02:06,033 --> 00:02:08,100
+And now we're back in our overview.
+
+40
+00:02:08,100 --> 00:02:11,100
+As you can see, all of our invoice
+line items are now valid.
+
+41
+00:02:11,566 --> 00:02:16,266
+And as you might also notice,
+our invoice document has also been linked
+
+42
+00:02:17,066 --> 00:02:20,066
+to all of our invoice line items.
+
+43
+00:02:20,766 --> 00:02:23,933
+This happens
+because the invoice number is matching.
+
+44
+00:02:26,066 --> 00:02:26,700
+Our additional
+
+45
+00:02:26,700 --> 00:02:29,733
+documents, our packing list
+and our preference certificate
+
+46
+00:02:30,100 --> 00:02:33,633
+has only been linked
+to the first two invoice line items.
+
+47
+00:02:34,200 --> 00:02:38,766
+This is because these documents
+only get linked to the invoice line items
+
+48
+00:02:39,233 --> 00:02:42,700
+with the same invoice number
+and the same order number
+
+49
+00:02:43,966 --> 00:02:47,100
+as the invoice line item
+that we originally attached it to.
+
+50
+00:02:47,400 --> 00:02:50,400
+So if we want to
+
+51
+00:02:50,900 --> 00:02:56,000
+add these documents to an invoice
+line item with a different order
+
+52
+00:02:56,000 --> 00:02:59,000
+number, then we would have to select
+this third position here.
+
+53
+00:02:59,033 --> 00:03:02,633
+Click on edit again and repeat the same
+steps again that we just went over.
+
+54
+00:03:03,100 --> 00:03:06,166
+Now if you want to manually add
+another invoice line item,
+
+55
+00:03:06,433 --> 00:03:09,966
+you can do so by pressing on the add
+button up here.
+
+56
+00:03:10,233 --> 00:03:13,100
+If you want to delete a single invoice
+line item,
+
+57
+00:03:13,100 --> 00:03:15,800
+you can do so
+by pressing the delete button.
+
+58
+00:03:15,800 --> 00:03:19,800
+If you want to delete all the invoice
+line items and the attached documents,
+
+59
+00:03:20,233 --> 00:03:23,466
+you can do so
+by pressing on the Delete file button.
+
+60
+00:03:23,700 --> 00:03:24,900
+Then everything will be gone.
+
+61
+00:03:25,900 --> 00:03:27,833
+However,
+since we're done with this exercise
+
+62
+00:03:27,833 --> 00:03:30,900
+and everything seems to be in order,
+we'll just press send now.
+
+63
+00:03:31,400 --> 00:03:34,366
+And in a minute,
+all of our documents would be gone.
+
+64
+00:03:34,366 --> 00:03:39,500
+In the next video, titled ‘Displaying
+Sent Data’, we will show you how you can
+
+65
+00:03:39,500 --> 00:03:43,166
+look for the documents and invoices
+that you have already sent.
+
+66
+00:03:43,733 --> 00:03:44,833
+Thank you for your attention.
+
+67
+00:03:44,833 --> 00:03:47,866
+I hope you're familiar now
+with the process
+
+68
+00:03:47,866 --> 00:03:50,566
+of how to upload and edit an invoice.
+
+69
+00:03:50,566 --> 00:03:53,733
+If you have any more questions,
+feel free to check in the user
+
+70
+00:03:53,733 --> 00:03:56,733
+manual
+or do not be afraid to reach out to us.
+
+71
+00:03:56,833 --> 00:03:57,733
+Thank you. Bye bye.
